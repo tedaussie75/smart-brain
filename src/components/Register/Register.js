@@ -20,7 +20,7 @@ export class Register  extends Component {
         this.setState({password : event.target.value})
     }
     onSubmitRegister = () => {
-        fetch('http://localhost:4000/register', {
+        fetch('https://frozen-badlands-46850.herokuapp.com/register', {
             method : 'post',
             headers : {
                 'Content-Type' : 'application/json'

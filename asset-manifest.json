@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/smart-brain/static/css/main.131b8eac.chunk.css",
-    "main.js": "/smart-brain/static/js/main.c0b854e5.chunk.js",
-    "main.js.map": "/smart-brain/static/js/main.c0b854e5.chunk.js.map",
-    "runtime-main.js": "/smart-brain/static/js/runtime-main.550b84ce.js",
-    "runtime-main.js.map": "/smart-brain/static/js/runtime-main.550b84ce.js.map",
-    "static/js/2.9727815d.chunk.js": "/smart-brain/static/js/2.9727815d.chunk.js",
-    "static/js/2.9727815d.chunk.js.map": "/smart-brain/static/js/2.9727815d.chunk.js.map",
-    "static/js/3.60e0601c.chunk.js": "/smart-brain/static/js/3.60e0601c.chunk.js",
-    "static/js/3.60e0601c.chunk.js.map": "/smart-brain/static/js/3.60e0601c.chunk.js.map",
+    "main.js": "/smart-brain/static/js/main.6bf60652.chunk.js",
+    "main.js.map": "/smart-brain/static/js/main.6bf60652.chunk.js.map",
+    "runtime-main.js": "/smart-brain/static/js/runtime-main.52f3181f.js",
+    "runtime-main.js.map": "/smart-brain/static/js/runtime-main.52f3181f.js.map",
+    "static/js/2.7ba8648d.chunk.js": "/smart-brain/static/js/2.7ba8648d.chunk.js",
+    "static/js/2.7ba8648d.chunk.js.map": "/smart-brain/static/js/2.7ba8648d.chunk.js.map",
+    "static/js/3.c673ac7b.chunk.js": "/smart-brain/static/js/3.c673ac7b.chunk.js",
+    "static/js/3.c673ac7b.chunk.js.map": "/smart-brain/static/js/3.c673ac7b.chunk.js.map",
     "index.html": "/smart-brain/index.html",
     "static/css/main.131b8eac.chunk.css.map": "/smart-brain/static/css/main.131b8eac.chunk.css.map",
-    "static/js/2.9727815d.chunk.js.LICENSE.txt": "/smart-brain/static/js/2.9727815d.chunk.js.LICENSE.txt"
+    "static/js/2.7ba8648d.chunk.js.LICENSE.txt": "/smart-brain/static/js/2.7ba8648d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.550b84ce.js",
-    "static/js/2.9727815d.chunk.js",
+    "static/js/runtime-main.52f3181f.js",
+    "static/js/2.7ba8648d.chunk.js",
     "static/css/main.131b8eac.chunk.css",
-    "static/js/main.c0b854e5.chunk.js"
+    "static/js/main.6bf60652.chunk.js"
   ]
 }
